@@ -5,4 +5,4 @@ Welcome to GitHub Pages
 🌀 仓库：
 https://github.com/XPoet/picx
 
-![MRI-radiologist](https://user-images.githubusercontent.com/29628114/235342345-cb69fd96-af0d-4099-b192-617a5f4dd917.jpg)
+https://cdn.staticaly.com/gh/miaomiao2021/JIYU@main/PicX/2021武汉市职工医保报销比例.5llb0kppe7k0.webp
